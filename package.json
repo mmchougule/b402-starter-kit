@@ -25,8 +25,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "b402-sdk": "^1.0.1",
     "b402-express": "file:../b402-sdk-repo/packages/express",
-    "b402-sdk": "latest",
     "dotenv": "^16.4.5",
     "ethers": "^6.15.0",
     "express": "^4.21.2",
